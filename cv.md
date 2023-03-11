@@ -21,4 +21,4 @@ ___
 ## Language Level
 * __English:__ A2 (for now)
 * __Russian:__ Intermediate
-* __Belarusian:__ Basic
+* __Belarusian:__ Intermediate
