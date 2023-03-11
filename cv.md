@@ -18,3 +18,7 @@ ____
 * Graduated from Gomel Road and Construction Gomel Road and Construction College as a painter/plasterer
 * Routing courses for a job as a national deliveryman
 ___
+## Language Level
+* __English:__ A2 (for now)
+* __Russian:__ Intermediate
+* __Belarusian:__ Basic
